@@ -38,4 +38,4 @@ jobs:
           echo test, and deploy your project.
 
       - name: Print npm version
-        run: echo npm --version
+        run: npm --version
